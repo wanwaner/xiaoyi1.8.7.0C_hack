@@ -1,0 +1,8 @@
+#!/bin/sh
+
+if test "${4#*check_did}" != ${4}
+then
+  echo '{"allow":true,"code":"20000"}'
+else
+  ./cloudAPI_real $@
+fi

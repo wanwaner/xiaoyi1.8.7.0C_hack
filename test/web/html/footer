@@ -1,0 +1,20 @@
+    <hr />
+    <table class="tablenone">
+      <tbody>
+        <tr>
+              <td class="tablenone">
+                <form action="/cmd.cgi/"><button type="submit" name="cmd" value="reboot">Перезагрузка</button></form>
+              </td>
+              <td class="tablenone">
+                <form action="/cmd.cgi/"><button type="submit" name="cmd" value="off">Выключение</button></form>
+              </td>
+        </tr>
+      </tbody>
+    </table>
+
+    <hr />
+    <footer>
+        <p style="text-align: center;">&copy; SnakeSel для <a href="http://4pda.ru/forum/index.php?showtopic=638230" target="_blank">4pda</a>.<br><sub>version 20170108</sub></p>
+    </footer>
+  </body>
+</html>

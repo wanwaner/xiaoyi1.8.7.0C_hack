@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+
+<html>
+  <head>
+    <meta charset=utf-8>
+    <link rel="stylesheet" type="text/css" href="yi.css">
+    <link type="image/x-icon" rel="shortcut icon" href="/favicon.ico" />
+    <title>Yi Home camera</title>
+        <!--[if IE]>
+        <script>
+          document.createElement('header');
+          document.createElement('nav');
+          document.createElement('section');
+          document.createElement('article');
+          document.createElement('aside');
+          document.createElement('footer');
+        </script>
+        <![endif]-->
+  </head>
+
+  <body>
+    <header>
+      <a href="/"><img alt="" src="yi.jpg" style="width: 30px; height: 30px; float: left;" /></a>
+      <h1>&nbsp;Xiaomi Yi Home Camera</h1>
+    </header>
+    <hr />
+    <nav>
+      <a href="/">Начало</a>  |
+      <a href="/video/" target="_blank">Просмотр видео</a> |
+      <a href="/cfg.cgi">Настройки</a>
+    </nav>
+    <hr />

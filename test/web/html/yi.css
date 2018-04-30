@@ -1,0 +1,21 @@
+footer, nav, header, section, aside {
+
+ display: block
+
+  }
+
+table, td, th{ 
+    border: 1px solid gray;
+    }
+
+.tablenone{ 
+    border: 0px;
+    text-align: center;
+    width: 500px;
+    margin: auto;
+    }
+
+#alt2{ margin: 0px; padding: 6px; border: 1px inset;}
+.smallfont{margin-bottom:2px;}
+#spoil{margin:10px; margin-top:5px;}
+
